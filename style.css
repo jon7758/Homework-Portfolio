@@ -1,0 +1,50 @@
+body {
+    background: skyblue;
+    }
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 3px;
+    background-color: snow;
+    color: black;
+    text-align: center;
+}
+.card-body {
+    size: initial;
+    display: flexbox;
+    text-align: center;
+    size: 50px;
+
+
+}
+.form-group {
+    width: 375px;
+    margin-left: 200px;
+}
+.form-box {
+    width: 375px;
+    height: 300px;
+    margin-left: 200px;
+}
+.btn-primary {
+    margin-top: -300px;
+    margin-left: 200px;
+}
+h3 {
+    margin-left: 200px;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 10px solid #555;
+}
+p {
+    font-weight: bold;
+    margin-left: 50px;
+}
+.col md-4 {
+    flex-direction: column;
+}
